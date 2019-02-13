@@ -46,8 +46,9 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.scss"
-            ],
+          ],
             "scripts": [],
             "es5BrowserSupport": true
           },
@@ -103,8 +104,9 @@
             "tsConfig": "src/tsconfig.spec.json",
             "karmaConfig": "src/karma.conf.js",
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.scss"
-            ],
+          ],
             "scripts": [],
             "assets": [
               "src/favicon.ico",
